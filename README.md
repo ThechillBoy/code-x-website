@@ -2,7 +2,7 @@
 
 **Learn Skills. Build Your Future.**
 
-Click This Link for open the website 👉 https://thechillboy.github.io/code-x-website/
+"Enter at your own risk, Boss! 👉" https://thechillboy.github.io/code-x-website/
 
 A modern, animated educational website built with HTML & CSS — an illustrative course guide for CodeVista Academy covering web development, data, marketing, design, AI, and computer essentials.
 
